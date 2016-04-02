@@ -1,0 +1,27 @@
+{
+  "name": "wmi-angular-kit",
+  "version": "1.0.0",
+  "homepage": "https://github.com/worldmedia/wmi-angular-kit",
+  "authors": [
+    "WMI"
+  ],
+  "description": "WMI Angular Kit",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular-sanitize": "~1.5.0",
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-bootstrap": "^1.2.4",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0",
+    "lodash": "^4.6.1"
+  }
+}

@@ -1,0 +1,5 @@
+<div class="container text-center">
+  <h2>{{ vm.data.message }}</h2>
+  <button ng-click="vm.fn.alertMe(vm.data.name);">Click Here</button>
+  <img class="center" src="img/loader.gif" ng-if="vm.prop.loading" />
+</div>
