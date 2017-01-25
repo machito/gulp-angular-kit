@@ -1,6 +1,6 @@
-# WMi Angular Kit
+# Gulp + Angular Kit
 
-Production Ready Boilerplate Framework For Angular
+Production-ready starter kit for Angular projects
 
 ### Node Modules
 
