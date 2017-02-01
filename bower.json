@@ -1,11 +1,11 @@
 {
-  "name": "wmi-angular-kit",
+  "name": "gulp-angular-kit",
   "version": "1.0.0",
-  "homepage": "https://github.com/worldmedia/wmi-angular-kit",
+  "homepage": "https://github.com/machito/gulp-angular-kit",
   "authors": [
-    "WMI"
+    "machito"
   ],
-  "description": "WMI Angular Kit",
+  "description": "Gulp Angular Kit",
   "main": "gulpfile.js",
   "license": "MIT",
   "private": true,
