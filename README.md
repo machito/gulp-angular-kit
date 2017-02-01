@@ -1,6 +1,6 @@
 # Gulp + Angular Kit
 
-Production-ready starter kit for Angular 1.x apps
+Production-ready starter kit for AngularJS apps
 
 ### Node Modules
 
